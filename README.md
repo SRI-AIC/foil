@@ -1,6 +1,6 @@
 # Fascimile of Intelligent Life
 
-<img src="figures/foil_overview.jpg"/>
+<img src="figures/foil_overview.png"/>
 
 SRI's Fascimile of Intelligence Life (FOIL) is an agentic AI system that uses Interpolative Decoding to explore how behavior changes based on different mixtures of personality traits and attributes.  
 
