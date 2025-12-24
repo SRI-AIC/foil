@@ -1,4 +1,4 @@
-# Fascimile of Intelligent Life
+<img width="1623" height="598" alt="image" src="https://github.com/user-attachments/assets/3e66bc00-78ed-48f3-911d-033ba9b20e25" /># Fascimile of Intelligent Life
 
 <img src="figures/foil_overview.png"/>
 
@@ -12,8 +12,7 @@ Interpolative Decoding works by modulating the influence of different prompts du
 <br/>
 
 ## Publications
-A pre-print is current in submission and will be updated when ready.
-
+Our pre-print is available at <a href="https://arxiv.org/abs/2512.19937">https://arxiv.org/abs/2512.19937</a>.
 ## Acknowledgments
 FOIL was supported by the DARPA on award number HR00112490411 under the Exploratory Models of Human-AI Teams (EMHAT) program .
 
